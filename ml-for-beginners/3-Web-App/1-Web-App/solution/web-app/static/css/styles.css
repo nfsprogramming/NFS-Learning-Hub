@@ -1,0 +1,56 @@
+body {
+	width: 100%;
+	height: 100%;
+	font-family: 'Helvetica';
+	background: black;
+	color: #fff;
+	text-align: center;
+	letter-spacing: 1.4px;
+	font-size: 30px;
+}
+
+
+/* Custom Scrollbar Design */
+::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #05060a;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.2); /* Slightly more visible */
+    border-radius: 20px;
+    border: 2px solid #05060a;
+    transition: all 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 242, 255, 0.5); /* Primary glow on hover */
+}
+
+/* Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255, 255, 255, 0.2) #05060a;
+}
+input {
+	min-width: 150px;
+}
+
+.grid {
+	width: 300px;
+	border: 1px solid #2d2d2d;
+	display: grid;
+	justify-content: center;
+	margin: 20px auto;
+}
+
+.box {
+	color: #fff;
+	background: #2d2d2d;
+	padding: 12px;
+	display: inline-block;
+}

@@ -1,0 +1,295 @@
+[
+    {
+        "section": "Lessons",
+        "lessons": [
+            {
+                "title": "Intro",
+                "path": "lessons/1-Intro/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Symbolic",
+                "path": "lessons/2-Symbolic/README.md",
+                "notebooks": [
+                    "Animals.ipynb",
+                    "FamilyOntology.ipynb",
+                    "MSConceptGraph.ipynb"
+                ]
+            },
+            {
+                "title": "Perceptron",
+                "path": "lessons/3-NeuralNetworks/03-Perceptron/README.md",
+                "notebooks": [
+                    "Perceptron.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/3-NeuralNetworks/03-Perceptron/lab/README.md",
+                "notebooks": [
+                    "PerceptronMultiClass.ipynb"
+                ]
+            },
+            {
+                "title": "Ownframework",
+                "path": "lessons/3-NeuralNetworks/04-OwnFramework/README.md",
+                "notebooks": [
+                    "OwnFramework.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/3-NeuralNetworks/04-OwnFramework/lab/README.md",
+                "notebooks": [
+                    "MyFW_MNIST.ipynb"
+                ]
+            },
+            {
+                "title": "Frameworks",
+                "path": "lessons/3-NeuralNetworks/05-Frameworks/README.md",
+                "notebooks": [
+                    "IntroKeras.ipynb",
+                    "IntroKerasTF.ipynb",
+                    "IntroPyTorch.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/3-NeuralNetworks/05-Frameworks/lab/README.md",
+                "notebooks": [
+                    "LabFrameworks.ipynb"
+                ]
+            },
+            {
+                "title": "Neuralnetworks",
+                "path": "lessons/3-NeuralNetworks/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Introcv",
+                "path": "lessons/4-ComputerVision/06-IntroCV/README.md",
+                "notebooks": [
+                    "OpenCV.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/4-ComputerVision/06-IntroCV/lab/README.md",
+                "notebooks": [
+                    "MovementDetection.ipynb"
+                ]
+            },
+            {
+                "title": "Convnets",
+                "path": "lessons/4-ComputerVision/07-ConvNets/README.md",
+                "notebooks": [
+                    "ConvNetsPyTorch.ipynb",
+                    "ConvNetsTF.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/4-ComputerVision/07-ConvNets/lab/README.md",
+                "notebooks": [
+                    "PetFaces.ipynb"
+                ]
+            },
+            {
+                "title": "Transferlearning",
+                "path": "lessons/4-ComputerVision/08-TransferLearning/README.md",
+                "notebooks": [
+                    "AdversarialCat_TF.ipynb",
+                    "Dropout.ipynb",
+                    "TransferLearningPyTorch.ipynb",
+                    "TransferLearningTF.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/4-ComputerVision/08-TransferLearning/lab/README.md",
+                "notebooks": [
+                    "OxfordPets.ipynb"
+                ]
+            },
+            {
+                "title": "Autoencoders",
+                "path": "lessons/4-ComputerVision/09-Autoencoders/README.md",
+                "notebooks": [
+                    "AutoEncodersPyTorch.ipynb",
+                    "AutoencodersTF.ipynb"
+                ]
+            },
+            {
+                "title": "Gans",
+                "path": "lessons/4-ComputerVision/10-GANs/README.md",
+                "notebooks": [
+                    "GANPyTorch.ipynb",
+                    "GANTF.ipynb",
+                    "StyleTransfer.ipynb",
+                    "StyleTransfer_Keras.ipynb"
+                ]
+            },
+            {
+                "title": "Objectdetection",
+                "path": "lessons/4-ComputerVision/11-ObjectDetection/README.md",
+                "notebooks": [
+                    "ObjectDetection.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/4-ComputerVision/11-ObjectDetection/lab/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Segmentation",
+                "path": "lessons/4-ComputerVision/12-Segmentation/README.md",
+                "notebooks": [
+                    "SemanticSegmentationPytorch.ipynb",
+                    "SemanticSegmentationTF.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/4-ComputerVision/12-Segmentation/lab/README.md",
+                "notebooks": [
+                    "BodySegmentation.ipynb"
+                ]
+            },
+            {
+                "title": "Computervision",
+                "path": "lessons/4-ComputerVision/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Textrep",
+                "path": "lessons/5-NLP/13-TextRep/README.md",
+                "notebooks": [
+                    "TextRepresentationPyTorch.ipynb",
+                    "TextRepresentationTF.ipynb"
+                ]
+            },
+            {
+                "title": "Embeddings",
+                "path": "lessons/5-NLP/14-Embeddings/README.md",
+                "notebooks": [
+                    "EmbeddingsPyTorch.ipynb",
+                    "EmbeddingsTF.ipynb"
+                ]
+            },
+            {
+                "title": "Languagemodeling",
+                "path": "lessons/5-NLP/15-LanguageModeling/README.md",
+                "notebooks": [
+                    "CBoW-PyTorch.ipynb",
+                    "CBoW-TF.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/5-NLP/15-LanguageModeling/lab/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Rnn",
+                "path": "lessons/5-NLP/16-RNN/README.md",
+                "notebooks": [
+                    "RNNPyTorch.ipynb",
+                    "RNNTF.ipynb"
+                ]
+            },
+            {
+                "title": "Generativenetworks",
+                "path": "lessons/5-NLP/17-GenerativeNetworks/README.md",
+                "notebooks": [
+                    "GenerativePyTorch.ipynb",
+                    "GenerativeTF.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/5-NLP/17-GenerativeNetworks/lab/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Transformers",
+                "path": "lessons/5-NLP/18-Transformers/README.md",
+                "notebooks": [
+                    "TransformersPyTorch.ipynb",
+                    "TransformersTF.ipynb"
+                ]
+            },
+            {
+                "title": "Ner",
+                "path": "lessons/5-NLP/19-NER/README.md",
+                "notebooks": [
+                    "NER-TF.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/5-NLP/19-NER/lab/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Langmodels",
+                "path": "lessons/5-NLP/20-LangModels/README.md",
+                "notebooks": [
+                    "GPT-PyTorch.ipynb"
+                ]
+            },
+            {
+                "title": "Nlp",
+                "path": "lessons/5-NLP/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Geneticalgorithms",
+                "path": "lessons/6-Other/21-GeneticAlgorithms/README.md",
+                "notebooks": [
+                    "Diophantine.ipynb",
+                    "Genetic.ipynb"
+                ]
+            },
+            {
+                "title": "Deeprl",
+                "path": "lessons/6-Other/22-DeepRL/README.md",
+                "notebooks": [
+                    "CartPole-RL-PyTorch.ipynb",
+                    "CartPole-RL-TF.ipynb",
+                    "notebook.ipynb",
+                    "tmp.ipynb"
+                ]
+            },
+            {
+                "title": "Lab",
+                "path": "lessons/6-Other/22-DeepRL/lab/README.md",
+                "notebooks": [
+                    "MountainCar.ipynb"
+                ]
+            },
+            {
+                "title": "Multiagentsystems",
+                "path": "lessons/6-Other/23-MultiagentSystems/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Ethics",
+                "path": "lessons/7-Ethics/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "Lessons",
+                "path": "lessons/README.md",
+                "notebooks": []
+            },
+            {
+                "title": "X1 Multimodal",
+                "path": "lessons/X-Extras/X1-MultiModal/README.md",
+                "notebooks": [
+                    "Clip.ipynb"
+                ]
+            }
+        ]
+    }
+]
